@@ -233,7 +233,7 @@
 		<dependency>
 			<groupId>io.netty</groupId>
 			<artifactId>netty-all</artifactId>
-			<version>4.0.9.Final</version>
+			<version>4.1.42.Final</version>
 		</dependency>
 		<!--用于基于elasticsearch的搜索 -->
 		<dependency>
