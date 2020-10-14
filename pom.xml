@@ -14,7 +14,7 @@
 		<zkclient.version>0.1</zkclient.version>
 		<zookeeper.version>3.4.5</zookeeper.version>
 		<sharding-jdbc.version>1.4.2</sharding-jdbc.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<profiles.dir>src/profiles</profiles.dir>
 	</properties>
 
